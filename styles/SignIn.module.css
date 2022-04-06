@@ -9,4 +9,10 @@
 .form {
   display: flex;
   flex-direction: column;
+  width: 300px;
+}
+
+.input {
+  padding: 8px 10px;
+  font-size: 16px;
 }
