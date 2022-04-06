@@ -32,6 +32,15 @@ export default function Home() {
           <button>Sign In</button>
         </Link>
       )}
+      <Link href="/protected">
+        <button
+          style={{
+            marginTop: 10,
+          }}
+        >
+          Protected Page
+        </button>
+      </Link>
     </div>
   );
 }

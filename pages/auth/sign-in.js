@@ -44,6 +44,7 @@ export default function SignIn() {
           className={styles.input}
         />
         <button
+          className={styles.button}
           style={{
             marginTop: 15,
           }}
